@@ -1,0 +1,7 @@
+Pedido ID: Pedido1
+Producto: Hamburguesa de casa Hawaina + platano, Cantidad: 1, Precio Unitario: $11.5, Subtotal: $11.5
+Producto: Alita Broaster, Cantidad: 1, Precio Unitario: $11.0, Subtotal: $11.0
+Total: 22.5, Estado: Preparacion
+Pedido ID: Pedido1730777014731
+Producto: Salchichapa Simple, Cantidad: 1, Precio Unitario: $11.0, Subtotal: $11.0
+Total: 11.0, Estado: Preparacion

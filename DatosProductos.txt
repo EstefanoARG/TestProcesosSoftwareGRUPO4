@@ -1,0 +1,26 @@
+1,Filete de Pollo,8.0,Broasters
+2,Filete de Pollo Royal,9.0,Broasters
+3,Filete de Pollo Hawaino,10.0,Broasters
+4,Filete de Pollo a lo pobre,11.0,Broasters
+5,Hamburguesa de casa,9.5,Hamburguesas
+6,Hamburguesa de casa Royal,11.0,Hamburguesas
+7,Hamburguesa de casa Hawaina,11.0,Hamburguesas
+8,Hamburguesa de casa Hawaina + platano,11.5,Hamburguesas
+9,Hamburguesa de casa a lo pobre,11.0,Hamburguesas
+10,Hamburguesa de casa + tocino,13.0,Hamburguesas
+11,Salchichapa Simple,11.0,Salchipapas
+12,Salchichapa con desilachado,14.0,Salchipapas
+13,Salchichapa con chorizo,14.0,Salchipapas
+14,Salchichapa Royal,14.0,Salchipapas
+15,Salchichapa a lo pobre,13.0,Salchipapas
+16,SalchiAlita,14.0,Alitas
+17,Alita Broaster,11.0,Alitas
+17,Alita Broaster,11.0,Alitas
+18,Combo 1,13.0,Combos
+19,Combo 2,13.0,Combos
+20,Combo 3,14.0,Combos
+21,Combo 4,15.0,Combos
+22,Coca Cola 1L,5.0,Bebidas
+23,Inca Cola 1L,5.0,Bebidas
+24,Coca Cola 2L,8.0,Bebidas
+25,Inca Cola 2L,8.0,Bebidas

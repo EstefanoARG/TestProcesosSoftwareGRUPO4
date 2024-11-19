@@ -1,0 +1,6 @@
+7
+Administrador,00000,Cocos Burguer 1_1,admin,admin,admin
+Cajero,00002,Hegel,Zafra,andrey,andrey
+Cajero,00004,Rodri_1,Momos,rmomos,pass00004
+Cajero,00005,Sebastian,Tejeda,stejeda,pass00005
+Cajero,00007,Usuario1,Apellido1,uapellido1,pass00007
